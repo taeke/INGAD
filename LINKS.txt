@@ -7,6 +7,7 @@ https://www.nuget.org/packages/StyleCop.MSBuild/
 https://www.nuget.org/packages/PhantomJS/
 https://www.nuget.org/packages/Selenium.WebDriver/
 https://www.nuget.org/packages/Selenium.Support/
+http://www.nuget.org/packages/HtmlAgilityPack
 
 BLOGS
 -----
@@ -27,6 +28,9 @@ https://stylecop.codeplex.com/discussions/394180
 StyleCop integration
 https://stylecop.codeplex.com/wikipage?title=Setting%20Up%20StyleCop%20MSBuild%20Integration&referringTitle=Documentation
 
+HTML scraping
+http://htmlagilitypack.codeplex.com/
+
 MSDN
 ----
 Git
@@ -40,6 +44,9 @@ http://stackoverflow.com/questions/13285566/exclude-file-from-stylecop-checking
 
 ssl problemen PhantomJS en Selenium
 http://stackoverflow.com/questions/20705027/selenium-webdriver-phantomjs-remains-at-aboutblank-for-a-specific-site
+
+HTML Agility Pack and loop table
+http://stackoverflow.com/questions/14968729/html-agility-pack-loop-through-table-rows-and-columns
 
 OTHER
 -----

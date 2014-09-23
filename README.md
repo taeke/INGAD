@@ -1,5 +1,7 @@
 INGAD
 =====
+ING Afschriften Downloaden
+
 www.ing.nl online banking does not have a CSV download option anymore but switched to a PDF download for my bank statements. 
 I liked the CSV download. 
 I can use the bank statements in an spreadsheet or database in this format.
