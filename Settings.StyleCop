@@ -1,4 +1,10 @@
 <StyleCopSettings Version="105">
+  <GlobalSettings>
+    <CollectionProperty Name="RecognizedWords">
+      <Value>ing</Value>
+      <Value>nl</Value>
+    </CollectionProperty>
+  </GlobalSettings>
   <Parsers>
     <Parser ParserId="StyleCop.CSharp.CsParser">
       <ParserSettings>

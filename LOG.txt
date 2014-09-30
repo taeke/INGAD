@@ -1,0 +1,8 @@
+LOG
+===
+Mogelijk resultaten
+- Inlog pagina niet gevonden
+- Inloggen niet gelukt
+- Nieuwe data beschikbaar
+- Geen data meer beschikbaar
+- Pagina kon niet geladen worden (wanneer we al ingelogd zijn maar het laden van de volgende pagina gaat mis)

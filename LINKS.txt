@@ -8,6 +8,7 @@ https://www.nuget.org/packages/PhantomJS/
 https://www.nuget.org/packages/Selenium.WebDriver/
 https://www.nuget.org/packages/Selenium.Support/
 http://www.nuget.org/packages/HtmlAgilityPack
+https://www.nuget.org/packages/moq/
 
 BLOGS
 -----
@@ -48,7 +49,18 @@ http://stackoverflow.com/questions/20705027/selenium-webdriver-phantomjs-remains
 HTML Agility Pack and loop table
 http://stackoverflow.com/questions/14968729/html-agility-pack-loop-through-table-rows-and-columns
 
+Create an interface for a System or ThirdParty class so you can mock an inject it.
+http://thorstenlorenz.blogspot.nl/2009/07/mocking-timer.html
+
+GITHUB
+------
+Moq
+https://github.com/Moq/moq4/wiki
+
 OTHER
 -----
 Git tutorial
 https://www.atlassian.com/git/tutorials/
+
+Moq documentation
+http://www.nudoq.org/#!/Projects/Moq

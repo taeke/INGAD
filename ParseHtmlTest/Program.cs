@@ -7,23 +7,20 @@
 //------------------------------------------------------------------------------------------------
 namespace ParseHtmlTest
 {
-    using HtmlAgilityPack;
     using System;
-    using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
+    using HtmlAgilityPack;
 
     /// <summary>
     /// Startup class for the application.
     /// </summary>
-    class Program
+    public class Program
     {
         /// <summary>
         /// Starting point for the application.
         /// </summary>
         /// <param name="args"> The arguments passed in from the console. </param>
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             HtmlDocument htmlDoc = new HtmlDocument();
             htmlDoc.OptionFixNestedTags = true;
